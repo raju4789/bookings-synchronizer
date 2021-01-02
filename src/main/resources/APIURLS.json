@@ -1,5 +1,5 @@
 {
-	"otaFetchURL": "http://localhost:8081/booking/v1/filter?check_in_date=",
-	"supplierURL":"http://localhost:8082/supplier/v1/status/",
-	"otaAmendURL":"http://localhost:8081/booking/v1/amend"
+	"otaFetchURL": "http://ota-booking:8081/booking/v1/filter?check_in_date=",
+	"supplierURL":"http://ota-supplier:8082/supplier/v1/status/",
+	"otaAmendURL":"http://ota-booking:8081/booking/v1/amend"
 }

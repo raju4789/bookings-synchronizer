@@ -487,3 +487,7 @@
 21/01/02 12:05:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
 21/01/02 12:06:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
 21/01/02 12:06:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 19:12:31 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 19:12:31 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 19:12:37 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 19:12:37 INFO synchronizer.SynchronizationApplication: bookings synchronization running

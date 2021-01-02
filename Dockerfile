@@ -1,3 +1,16 @@
-FROM openjdk:11
-ADD target/bookings-synchronizer-0.0.1-SNAPSHOT bookings-synchronizer-0.0.1-SNAPSHOT
-ENTRYPOINT ["java", "-jar", "bookings-synchronizer-0.0.1-SNAPSHOT", "com.ogado.synchronizer.SynchronizationApplication"]
+# our base build image
+FROM maven:3.6.3-jdk-11 as mvn
+
+# copy the project files
+COPY ./pom.xml ./pom.xml
+
+# build all dependencies
+RUN mvn dependency:go-offline -B
+
+# copy your other files
+COPY ./src ./src
+
+# build for release
+RUN mvn package
+
+ENTRYPOINT mvn exec:java
