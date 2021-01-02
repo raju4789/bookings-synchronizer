@@ -1,0 +1,489 @@
+21/01/01 19:40:30 ERROR utils.ConfigLoader: Failed to read configuration file: src/main/java/APIURLS.json (No such file or directory)
+21/01/01 19:40:30 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will retried again in some time.
+21/01/01 19:40:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:40:40 ERROR utils.ConfigLoader: Failed to read configuration file: src/main/java/APIURLS.json (No such file or directory)
+21/01/01 19:40:40 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will retried again in some time.
+21/01/01 19:40:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:40:50 ERROR utils.ConfigLoader: Failed to read configuration file: src/main/java/APIURLS.json (No such file or directory)
+21/01/01 19:40:50 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will retried again in some time.
+21/01/01 19:40:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:41:23 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will retried again in some time.
+21/01/01 19:41:23 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:41:32 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will retried again in some time.
+21/01/01 19:41:32 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:41:42 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will retried again in some time.
+21/01/01 19:41:42 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:42:09 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/01 19:42:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:42:18 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/01 19:42:18 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:42:28 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/01 19:42:28 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:51:25 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/01 19:51:25 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/01 19:51:35 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/01 19:51:35 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:30:03 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:30:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:30:12 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:30:12 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:30:22 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:30:22 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:30:32 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:30:32 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:30:42 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:30:42 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:30:59 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:30:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:31:08 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:31:08 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:31:18 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:31:18 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:33:31 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:33:31 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:33:40 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:33:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:33:50 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:33:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:34:00 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:34:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:34:10 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:34:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:34:20 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:34:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:34:30 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:34:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:34:40 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:34:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:34:50 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:34:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:35:00 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:35:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:35:10 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:35:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:35:20 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:35:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:35:30 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:35:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:35:40 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:35:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:35:50 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:35:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:00 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:36:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:12 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:12 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:28 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:28 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:36 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:36 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:36:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:36:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:37:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:37:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:38:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:38:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:39:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:39:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:40:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:40:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:41:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:41:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:42:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:42:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:43:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:43:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:44:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:44:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:45:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:45:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:39 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:49 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:46:59 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:46:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:47:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:47:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:47:09 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:47:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:47:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:47:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:47:19 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:47:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:47:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:47:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:47:29 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:47:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:47:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:47:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:47:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:47:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:47:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:47:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:48:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:48:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:48:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:48:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:48:20 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:48:20 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:48:30 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:48:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:48:40 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:48:40 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:48:50 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
+21/01/02 10:48:50 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:51:04 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:51:04 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:51:10 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:51:10 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:51:32 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:51:32 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:51:41 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:51:41 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:51:50 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:51:51 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 10:52:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 10:52:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:40:11 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:40:11 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:40:17 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:40:17 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:40:27 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:40:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:40:37 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:40:37 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:40:47 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:40:47 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:40:57 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:40:57 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:41:07 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:41:07 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:41:17 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:41:17 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:41:27 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:41:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:41:37 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:41:37 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:41:47 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:41:47 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:41:57 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:41:57 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:42:07 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:42:07 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:42:17 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:42:17 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:42:27 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:42:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:44:46 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:44:46 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:44:53 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:44:53 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:45:03 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:45:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:45:13 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:45:13 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:45:23 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:45:23 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:45:33 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:45:33 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:45:43 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:45:43 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:45:53 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:45:53 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:46:03 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:46:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:46:13 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:46:13 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:46:23 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:46:23 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:46:33 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:46:33 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:46:43 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:46:43 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:59:30 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 11:59:30 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:59:38 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:59:38 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:59:41 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:59:41 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 11:59:51 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 11:59:51 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:00:01 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:00:01 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:00:11 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:00:11 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:00:21 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:00:21 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:00:31 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:00:31 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:00:41 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:00:41 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:00:51 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:00:51 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:01:01 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:01:01 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:03:13 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:03:13 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:03:22 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:03:22 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:03:32 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:03:32 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:03:42 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:03:42 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:04:00 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/02 12:04:00 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:04:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:04:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:04:19 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:04:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:04:29 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:04:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:04:39 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:04:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:04:49 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:04:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:04:59 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:04:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:05:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:05:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:05:19 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:05:19 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:05:29 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:05:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:05:39 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:05:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:05:49 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:05:49 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:05:59 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:05:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/02 12:06:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/02 12:06:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
