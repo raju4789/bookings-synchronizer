@@ -25,7 +25,7 @@ public class BookingsSynchronizationService implements IBookingsSynchronizationS
 	public void synchronizeBookings() {
 
 		try {
-			APIURL apiURls = ConfigLoader.loadConfiguration(ApplicationConstants.API_URLS_CONFIG_FILE, APIURL.class);
+			APIURL apiURls = ConfigLoader.loadConfiguration(ApplicationConstants.ENV_API_URLS.get(System.getProperty("env")), APIURL.class);
 			String OTAFetchURL = apiURls.getOtaFetchURL() + LocalDate.now().toString();
 			HttpResponse<String> res = ClientConnectionManager.get(OTAFetchURL);
 			OTABookings otaResponse = JsonMapper.parse(res.body(), OTABookings.class);

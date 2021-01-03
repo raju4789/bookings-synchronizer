@@ -1,0 +1,5 @@
+{
+	"otaFetchURL": "http://localhost:8081/booking/v1/filter?check_in_date=",
+	"supplierURL":"http://localhost:8082/supplier/v1/status/",
+	"otaAmendURL":"http://localhost:8081/booking/v1/amend"
+}

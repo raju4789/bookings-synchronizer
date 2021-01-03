@@ -13,4 +13,4 @@ COPY ./src ./src
 # build for release
 RUN mvn package
 
-ENTRYPOINT mvn exec:java
+ENTRYPOINT mvn exec:java -Denv=prod
