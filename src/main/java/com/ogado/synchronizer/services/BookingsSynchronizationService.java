@@ -49,13 +49,10 @@ public class BookingsSynchronizationService implements IBookingsSynchronizationS
 				}
 
 				if (updatedBookings.size() > 0) {
-					OTABookings request = new OTABookings();
-					request.setHttpStatus(HTTPStatus.OK);
-					request.setBookings(updatedBookings);
-					String requestBody = JsonMapper.stringifyPretty(request);
+					String requestBody = JsonMapper.stringifyPretty(updatedBookings);
 					String OTAAmendURL = apiURls.getOtaAmendURL();
 
-					ClientConnectionManager.post(OTAAmendURL, requestBody);
+					ClientConnectionManager.put(OTAAmendURL, requestBody);
 					
 					log.info("bookings synchronized successfully");
 

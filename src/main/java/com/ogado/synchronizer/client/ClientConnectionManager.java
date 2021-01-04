@@ -28,9 +28,9 @@ public class ClientConnectionManager {
 
 	}
 	
-	public static HttpResponse<String> post(String uri, String requestBody) throws Exception {
+	public static HttpResponse<String> put(String uri, String requestBody) throws Exception {
 		HttpRequest request = HttpRequest.newBuilder(URI.create(uri)).header("Content-Type", "application/json")
-				.POST(BodyPublishers.ofString(requestBody)).build();
+				.PUT(BodyPublishers.ofString(requestBody)).build();
 
 		return getHTTPClient().send(request, BodyHandlers.ofString());
 

@@ -505,3 +505,203 @@
 21/01/03 11:43:41 INFO synchronizer.SynchronizationApplication: bookings synchronization running
 21/01/03 11:43:47 ERROR synchronizer.SynchronizationApplication: failed to synchronize bookings.operation will re-tried again in some time.
 21/01/03 11:43:47 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:44:18 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:44:18 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:44:23 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:44:23 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:44:29 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:44:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:44:35 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:44:35 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:44:41 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:44:41 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:44:47 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/04 09:44:47 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:44:53 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:44:53 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:44:59 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:44:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:05 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:05 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:11 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:11 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:17 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:17 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:23 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:23 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:29 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:35 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:35 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:41 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:41 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:47 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:47 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:53 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:53 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:45:59 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:45:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:05 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:05 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:11 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:11 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:17 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:17 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:23 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:23 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:29 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:35 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:35 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:41 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:41 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:47 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:47 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:53 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:53 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:46:59 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:46:59 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:47:05 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:47:05 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:47:11 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:47:11 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:47:17 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:47:17 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:47:23 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:47:23 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:47:29 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:47:29 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:47:35 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:47:35 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:48:58 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:48:58 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:03 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:15 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:15 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:21 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:21 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:27 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:33 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:33 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:39 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:45 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:45 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:51 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:51 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:49:57 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:49:57 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:03 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:50:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:50:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:15 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:50:15 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:21 INFO synchronizer.SynchronizationApplication: bookings synchronized successfully
+21/01/04 09:50:21 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:27 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:50:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:33 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:50:33 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:39 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:50:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:45 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:50:45 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:51 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:50:51 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:50:57 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:50:57 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:03 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:15 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:15 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:21 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:21 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:27 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:33 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:33 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:39 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:45 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:45 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:51 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:51 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:51:57 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:51:57 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:03 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:15 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:15 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:21 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:21 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:27 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:33 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:33 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:39 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:45 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:45 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:51 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:51 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:52:57 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:52:57 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:03 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:15 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:15 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:21 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:21 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:27 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:33 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:33 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:39 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:45 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:45 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:51 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:51 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:53:57 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:53:57 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:03 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:15 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:15 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:21 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:21 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:27 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:33 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:33 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:39 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:39 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:45 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:45 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:51 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:51 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:54:57 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:54:57 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:55:03 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:55:03 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:55:09 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:55:09 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:55:15 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:55:15 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:55:21 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:55:21 INFO synchronizer.SynchronizationApplication: bookings synchronization running
+21/01/04 09:55:27 INFO synchronizer.SynchronizationApplication: no new bookings to update
+21/01/04 09:55:27 INFO synchronizer.SynchronizationApplication: bookings synchronization running
