@@ -39,7 +39,7 @@ public class JsonMapper {
 
 	public static String stringifyPretty(Object obj) throws JsonProcessingException {
 		JsonNode jsonNode = jsonMapper.valueToTree(obj);
-		;
+		
 		return generateJson(jsonNode, true);
 
 	}
